@@ -1,0 +1,7 @@
+data/
+out/
+*.rds
+*.Rhistory
+*.RData
+.Rproj.user/
+*.Rproj
